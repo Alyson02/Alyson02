@@ -1,5 +1,4 @@
-(https://user-images.githubusercontent.com/60361387/116454418-5902fb00-a836-11eb-87fa-168ed5e05758.png)
-- Etec e PROA
+
 
 <div>
   <a href = "https://github.com/Alyson02">
