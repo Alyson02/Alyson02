@@ -1,4 +1,4 @@
-<img  src="https://readme-typing-svg.herokuapp.com?color=%23F79E5D&size=40&center=true&width=1084&height=200&lines=Sejam+Bem+Vindo+ao+Meu+Perfil!" alt="Typing SVG"/>
+<img  src="https://readme-typing-svg.herokuapp.com?color=%23F79E5D&size=40&center=true&width=1084&height=200&lines=Seja+Bem+Vindo+ao+Meu+Perfil!" alt="Typing SVG"/>
 
 
 ![apresenta](https://user-images.githubusercontent.com/80166983/139618421-a30f2f2a-bd35-4e83-8c93-bbc9106a99bd.png)
