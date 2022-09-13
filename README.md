@@ -15,13 +15,8 @@
 </p>
 
  ---
-<div align="center">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Alyson02&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alyson02&layout=compact&theme=gruvbox">
-</div>
-
- ---
-### Skills:
+ 
+ ### Skills:
 
 
 <!-- Badges from: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
@@ -41,19 +36,25 @@
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
   <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15">
   <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white">
 </p>
- 
+
  ---
  
-![Snake animation](https://github.com/Alyson02/Alyson02/blob/output/github-contribution-grid-snake.svg)   
+<div align="center">
+  <img width="800px" src="https://github-readme-stats.vercel.app/api?username=Alyson02&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true"/>
+  <p><br/><br/><br/><br/></p>
+  <img width="800px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alyson02&theme=gruvbox&layout=compact"/>
+  <p><br/><br/><br/><br/></p>
+  <img width="800px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Alyson02&theme=gruvbox&langs_count=5&range=all_time"/>
+</div>
+
+ ---
+ 
+<img width="100%" src="https://github.com/Alyson02/Alyson02/blob/output/github-contribution-grid-snake.svg"/>
 
