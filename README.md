@@ -1,6 +1,4 @@
-<img  src="https://readme-typing-svg.herokuapp.com?color=%23F79E5D&size=40&center=true&width=1084&height=200&lines=Seja+Bem+Vindo+ao+Meu+Perfil!" alt="Typing SVG"/>
-
-![ApresentaGithub](https://user-images.githubusercontent.com/80166983/158165007-59d6451d-7163-4207-a712-cf459c9faac5.png)
+<img  src="https://readme-typing-svg.herokuapp.com?color=%23F79E5D&size=40&center=true&width=1084&height=200&lines=Seja+Bem+Vindo+ao+Meu+Perfil!"
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alyson-subrim/" target="_blank">
