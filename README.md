@@ -42,17 +42,6 @@
   <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white">
 </p>
 
- ---
- 
-<div align="center">
-  <img width="800px" src="https://github-readme-stats.vercel.app/api?username=Alyson02&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true"/>
-  <p><br/><br/><br/><br/></p>
-  <img width="800px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alyson02&theme=gruvbox&layout=compact"/>
-  <p><br/><br/><br/><br/></p>
-  <img width="800px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Alyson02&theme=gruvbox&langs_count=5&range=all_time"/>
-</div>
-
- ---
  
 <img width="100%" src="https://github.com/Alyson02/Alyson02/blob/output/github-contribution-grid-snake.svg"/>
 
